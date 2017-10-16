@@ -32,8 +32,8 @@
 
 definition(
 name: "Garden Hue",
-namespace: "lgkapps",
-author: "lgkahn kahn-st@lgk.com",
+namespace: "GlenHimself",
+author: "Glen",
 description: "Change hue color of lights based on schedule sunset to sunrise.",
 category: "Convenience",
 iconUrl: "http://mail.lgk.com/huetree1.png",
